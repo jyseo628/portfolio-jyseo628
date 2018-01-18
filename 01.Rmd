@@ -1,5 +1,7 @@
 # My first cool idea {#slug-one}
 
+Building a predictive tool for nonprofit organizations to raise funds more efficiently.
+
 #### Keywords {-}
 
 yaba, daba, do
