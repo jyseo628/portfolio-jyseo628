@@ -1,26 +1,33 @@
-# My first cool idea {#slug-one}
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Help Koreans help others!
 
-Building a predictive tool for nonprofit organizations to raise funds more efficiently.
+Improving fundraising culture in South Korea
 
-#### Keywords {-}
 
-yaba, daba, do
+## Direct mails and street fundraising are still popular in Korea!
 
-## A beginning.
+Do direct mails and street fundraising sound like 1990's? Surprisingly, they are still the leading fundraising channels in South Korea. Even though the size of nonprofit sector has rapidly grown and numerous organizations have been formed in the past 2 decades, the sustainability of the organizations still rely on 1990's tactics. Majority of nonprofit organizations still use paper signup sheets to acquire new donors from street fundraising and direct mailing. This leads to 2 major problems in facilitating the development of nonprofit sector: 1) Even though huge amount of basic donor information gets accumulated in the organizations' database systems, crucial information about donors' interests is not collected. 2) Accumulated donor information is thus only used as a mere means to draw the next round donation, not to better understand donors for sustainable fundraising opportunities.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
 
-## A middle.
+## Know your donors better.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+To solve these problems, two measures can be taken. First is to regulate data capture protocol, and second is to build predictive models to better understand donors.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+In order to accumulate meaningful data from every donor, digitalization of fundraising channel is crucial. By activating and tracking the organization's social media, websites, and emails to acquire new donors and communicate with existing donors, an organization can easily keep track of the interests of its donors. For offline donor acquisition, asking the right questions will be important, given the time constraint of handwritten signups - if the questionnaire is too long and too private, it will discourage people to sign up.
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+To better understand the donors and identify further fundraising opportunities, I plan to build predictive models to dissect donor behaviors by asking two questions: What drives them to donate? and How much are they likely to give (more)?
+In order to answer the first question, lots of testing and collecting additional data will be crucial by tracking the results of test emails, social media traffics, website traffics, and event attendances. By continuously asking donors what triggers their philanthropy, we can better reflect what is meaningful to donors on our marketing tools.
+In addition to marketing contents, I would also like to analyze donors giving behaviors and donation data. By dividing donors by donor types (one-time, regular, legacy, major), number of gifts, average donation amount, and number of years donating, we can identify their correlations with age, employment info, income level, and other demographic features.
 
-## An end.
+Utilizing the predictive models and capturing the right data should evolve together by feeding information back to each other continuously.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+
+## The Art of Data Science
+
+Building data collection protocol will help to gather information of not only the basic demographics of donors, but also their motivations for giving. And studying such collected data of donors' interests and giving behaviors, we can then construct donor segmentation and carry out further tests for each segmented group. For example, we might find out that the majority of the donation might come from small portion of donor group. In that case, we need to apply different communication tools for that group in order to engage them more deeply.
+As a result of evolving tests, nonprofit organizations will be able to engage with loyal donors, raise retention rates, and even create supporter groups.
+However, such implementation of data collection and analyses will not happen overnight with existing database systems and human resources: they will need time and the right tools/talents. They should also remember that the primary goal here is to engage with the donors more deeply. They should not be too focused on the science of the data and get carried away from emotional engagement!
