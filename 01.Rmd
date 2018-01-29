@@ -25,4 +25,4 @@ Predictive models can be the most effective in planned giving. By evaluating don
 ## The Art of Data Science
 
 Implementing data collection protocol and building up meaningful data will be time consuming and costly. Given the society's familiarity with analogue fundraising, abrupt changes might lead to temporary lag in fundraising. Data analyses will also not happen overnight with existing database systems and human resources: NPOs will need the right tools and talents. However, such recession is a growing pain in order to optimize long-term fundraising efficiency.
-In addition, NPOs should also remember that the primary goal is to engage with the donors more deeply. They should not be too focused on the science of the data and get carried away from emotional engagement! [@maclaughlin2017]
+In addition, NPOs should also remember that the primary goal is to engage with the donors more deeply. They should not be too focused on the science of the data and get carried away from emotional engagement! [@maclaughlin_balancing_2017]
