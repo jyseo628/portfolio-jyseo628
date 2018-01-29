@@ -3,10 +3,11 @@ output:
   pdf_document: default
   html_document: default
 ---
-# Help Koreans help others!
+# Help Koreans help others! {#Improving fundraising culture in South Korea}
 
-Improving fundraising culture in South Korea
+#### Keywords {-}
 
+data science, fundraising, predictive modeling
 
 ## Direct mails and street fundraising are still popular in Korea!
 
