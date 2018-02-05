@@ -1,27 +1,37 @@
 # Help Koreans help others! {#Improving fundraising culture in South Korea}
 
+
 #### Keywords {-}
 
 data science, fundraising, predictive modeling, nonprofit, NPO, Korea, ABtest
 
 
+
 ## Direct mails and street fundraising are still popular in Korea!
 
 Do direct mails and street fundraising sound like 90's? Despite widespread perception that Korea is well advanced in technology, direct mails and street fundraising are still the leading fundraising channels in South Korea. Even though the size of nonprofit sector has rapidly grown in the past two decades, the sustainability still relies on 90's tactics. This leads to 2 major problems in facilitating the development of nonprofit sector: 1) Despite of massive data collected on donors' demographic information, critical information about donors' interests is still missing. 2) Accumulated donor information is not properly analyzed to better engage with donors, and thus not applied to optimize sustainable fundraising. Lack of engagement with donors results in inefficiency of nonprofit organizations' (NPO) fundraising, because acquiring new donors is costly, whereas "retaining donors by building a relationship [allows] organizations [to] spend less time and effort." [@foran_donor_2017] 
+
 Application of data in decision making is still an overdue task for most corporates in Korea, especially for NPOs. "The key is moving from simply collecting data to actually leveraging nonprofit's data in the right ways," in order to bring fundraising practices of nonprofit sector to maturity. [@maclaughlin_using_2017]
+
 
 
 ## Engage with donors and predict how they'll react
 
 Predictive modeling complemented with AB tests can help NPOs to solve such problems and optimize fundraising practices. NPOs can start by segmenting donors into groups based on pre-collected demographic information, such as donor type, gender, age, income level, average gift size, number of gifts, number of years giving, and average donation amount. Then, AB tests can be run across multiple demographic dimensions on variables of marketing content and solicitation patterns. Marketing content variables range from fundraising topics, tone of voice, to donation button designs, and solicitation pattern variables include fundraising channels, number of asks, and types of asks. From the test results, NPOs can learn about what donors engage with. NPOs should remember that donors' behaviors and interests constantly change, and thus should AB tests. With evolving AB tests, donors can be re-segmented more meaningfully based on what they engage with, rather than mere demographic information.
+
 Now that NPOs better understand donors' motivations, they can predict the most effective ways to communicate with newly segmented groups. For example, traditional fundraising tactics might still work best with older age groups, while digitalization of activating social media channels and utilizing email solicitation might be critical for targeting younger groups. For donors who are particularly enthusiastic about emergency fundraising, NPOs can send urgent asks with frequent situation updates. By applying personalized marketing with predictive models, NPOs can retain donors for a longer period of time.
+
 Beyond marketing content, another advantage of predictive models is to identify loyal donors - who will give more often, larger amount, for a longer period of time. Predicting who is willing to give more in amount and frequency, NPOs can really target them to upgrade in donation amount, convert to a regular donor, or give additionally for emergency cases like natural disasters. By targeting the right donors to engage further, NPOs can efficiently allocate budget in cultivating donors with higher lifetime value and fully optimize fundraising opportunities.
+
 In addition, predictive models can be the most effective in planned donation, such as legacy or major donation, which is a form of donation prevalent in the most matured community, because it requires the deepest engagement with donors. By opening up the chances of cultivating planned givers, Korea will be one step closer to becoming a mature country in giving culture.
+
 
 
 ## The Art of Data Science
 
 Predictive models will enable NPOs in Korea to constantly adapt marketing tools and solicitation methods for the right target groups, and engage more deeply with donors. This will result in not only higher retention rates and lifetime values, but also opportunities for planned donation. Since "a 10% increase in donor retention can increase the lifetime value of donor database by 200%," NPOs will be able to optimize sustainable fundraising practices, equipped with evolving datasets and models. [@sargeant_building_2004]
+
 Collecting meaningful datasets and analyzing them will be time consuming and costly, given existing database systems and human resources: NPOs will need the right tools and talents.
 Given the society's familiarity with traditional fundraising, abrupt changes might lead to temporary lag in fundraising. Even advanced analytical tools available in the market will not be adapted to Korean market overnight. However, I think such difficulties are necessary growing pains in promoting the sustainable growth of nonprofit sector in Korea.
-In addition, in applying data science, NPOs should remember that the primary goal is to engage with the donors more deeply. They should not be too focused on the science and get carried away from emotional engagement! 
+
+In addition, in applying data science, NPOs should remember that the primary goal is to engage with the donors more deeply. They should not be too focused on the science and get carried away from emotional engagement!
