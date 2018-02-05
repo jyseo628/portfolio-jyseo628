@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-data science, fundraising, predictive modeling
+data science, fundraising, predictive modeling, nonprofit, NPO, Korea, ABtest
 
 
 ## Direct mails and street fundraising are still popular in Korea!
