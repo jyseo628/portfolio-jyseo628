@@ -8,9 +8,9 @@ Data Science, AI, algorithm, prevent, suicide, South Korea
 
 "According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012, about 2 1/2 times the OECD average of 11.9." South Korea is still number 1 in suicide rates, being the No.1 cause of death among Koreans aged 10 to 39. [@Yoon]
 
-## Data Science to save lives
+## Machine learning for saving lives
 
-AI algorithms can prevent people from ending their lives by utilizing social media.
+Machine learning algorithms can prevent people from ending their lives by utilizing social media.
 
 
 ## Privacy issues
