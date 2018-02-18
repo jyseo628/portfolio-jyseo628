@@ -1,19 +1,26 @@
-# People-saving algorithms {#Stopthekilling}
+# People-saving algorithms {#Stop-the-killing}
 
 #### Keywords {-}
 
 Data Science, AI, algorithm, prevent, suicide, South Korea
 
-## No.1 suicidal rate among OECD countries
+## No.1 suicide rate among OECD countries
 
-"According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012, about 2 1/2 times the OECD average of 11.9." South Korea is still number 1 in suicide rates, being the No.1 cause of death among Koreans aged 10 to 39. [@Yoon]
+"According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012 [in South Korea], about 2 1/2 times the OECD average of 11.9." South Korea has the highest suicidal rate among OECD countries, especially for children of age 10-19, and elderly group (60+). [@Yoon] Without comparison to other countries, suicide is the No.1 cause of death among Koreans aged 10 to 39. Despite the severity of high and increasing trends, countermeasures by the government have been insufficient and inefficient. "In 2016, only $7 million was spent on mental health, when compared to Japan, which has a similar problem but has started spending $130 million each year on suicide prevention and awareness." [@Kim]
+
+
 
 ## Machine learning for saving lives
 
-Machine learning algorithms can prevent people from ending their lives by utilizing social media.
+Machine learning algorithms can prevent people from ending their lives, by detecting citizens who show signs of suicidal attempts for intervention. Korean government can utilize citizens' data on smartphone behaviors and develop machine learning algorithms that can correlate behavioral data with symptoms of depression or other mental disorders. Based on text mining and image mining, algorithms can be designed to automatically trigger the flag, when they detect individuals who show symptoms of depression or signs of suicidal attempts. For example, "people who are contemplating ending their lives rarely use the word 'suicide'; words like 'ibuprofen' or 'bridge' are better indicators of suicidal thoughts." [@Reardon] Algorithms can be run on collected data regarding people's language patterns on social media or messaging apps, in-app purchase patterns, and browsing patterns.
+
+What makes this process remarkably accessible is the application Kakaotalk, the single most-used messenger/SNS platform for Koreans: 43 out of 51 million Koreans are active users (84% penetration). It also provides shopping (with KakaoPay), news browsing, search engine, and banking services, all in multiple tabs in a single application. By analyzing users' data of private chats, public posts, purchase patterns, searching patterns, and vocal cues for mood changes, machine learning algorithms can easily detect individuals who show suicidal symptoms.
+
+After detection, algorithms can notify Suicide Prevention Center to approach individuals at risk, or suggest them to chat with Suicide Prevention Center hot lines directly.
 
 
 ## Privacy issues
 
-Utiziling "passive" data can be invading privacy of people.
-Given the sensitivity of topic, point of intervention can also be controvercial.
+Such a tactic can be very effective, considering the social context of South Korean culture, where mental illness is social stigma. Even if people experience depression or other mental illnesses, they find it very difficult to voluntarily and openly look for help, because society stigmatizes people with mental health problems or even past psychiatric treatments. Most of them tend to keep it secret and seek to find solutions on their own. If this algorithm can identify such individuals and help them on hot lines in private chats, it could reduce suicidal rate significantly.
+However, utilizing "passive" data can be invading privacy of people, because they never agreed on using their private chats to diagnose for depression specifically. The only agreement was at the very beginning when they had signed up a decade ago. And there is no guarantee that these detections and interventions are correct. There will be false positives.
+Moreover, given the sensitivity of topic, point of intervention can also be controversial. Abrupt intervention can backfire and push them even further away from opening up and receiving help. In identifying and approaching individuals with depression, caution is needed.
