@@ -34,3 +34,6 @@ Collecting meaningful datasets and analyzing them will be time consuming and cos
 Given the society's familiarity with traditional fundraising, abrupt changes might lead to temporary lag in fundraising. Even advanced analytical tools available in the market will not be adapted to Korean market overnight. However, I think such difficulties are necessary growing pains in promoting the sustainable growth of nonprofit sector in Korea.
 
 In addition, in applying data science, NPOs should remember that the primary goal is to engage with the donors more deeply. They should not be too focused on the science and get carried away from emotional engagement!
+
+
+# Bibliography {-}
