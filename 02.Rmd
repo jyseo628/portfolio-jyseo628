@@ -1,5 +1,9 @@
 # People-saving algorithms {#Stop-the-killing}
 
+#### Abstract {-}
+
+(ref:abs2)
+
 #### Keywords {-}
 
 Data Science, AI, algorithm, prevent, suicide, South Korea

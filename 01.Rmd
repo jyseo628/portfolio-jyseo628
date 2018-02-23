@@ -2,6 +2,10 @@
 
 
 
+#### Abstract {-}
+
+(ref:abs1)
+
 #### Keywords {-}
 
 data science, fundraising, predictive modeling, nonprofit, NPO, Korea, ABtest
