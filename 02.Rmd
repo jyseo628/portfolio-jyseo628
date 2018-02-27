@@ -4,6 +4,7 @@
 
 Data Science, AI, algorithm, prevent, suicide, South Korea
 
+
 ## Is North Korea the biggest threat to South Korea?
  
 "According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012 [in South Korea], which is about 2 1/2 times the OECD average of 11.9." It is the highest suicidal rate among OECD countries. [@Yoon] Suicide is the No.1 cause of death among Koreans aged 10 to 39. Even without North Korea's threat, South Korea has enough killings on their own.
@@ -11,7 +12,9 @@ Data Science, AI, algorithm, prevent, suicide, South Korea
 Despite the severity of high and increasing trends, countermeasures by the government have been inefficient. For instance, the handrails on Mapo bridge, where many suicides were reported, have been equipped with motion sensors to sense movements for suicide, lighting up with short phrases and showing photos of happy families among other things. However, suicide rates on Mapo bridge has actually increased after the sensors were implemented, and now it's even called "the suicide bridge." Fundamental reason of such happening is government's lack of understanding the nature of suicidal individuals, and therefore, what support such individuals need. In their defense, the difficulty of understanding motives of depressed citizens is because of social stigma against people who visit psychiatrists or therapists, making them "crazy people." Therefore, the existing Suicide Prevention Center stands for the sake of existence without actual visitors. Instead of approaching this problem prematurely, Korean government needs to take the right measure.
 
 
+
 ## Machine learning for saving lives
+
 
 Machine learning algorithms can help Korean government to intervene with citizens who show signs of suicidal attempts by detecting them in an earlier stage. MLA can utilize citizens' data on smartphone behaviors and understand correlation between behavioral data and symptoms of depression or other mental disorders, in order to identify individuals in need of help. What makes this process remarkably accessible is the application Kakaotalk, the single most-used messenger/SNS platform for Koreans: 43 out of 51 million Koreans are active users (84% penetration). This application also provides other tools, such as audio/video calls, shopping platform (with KakaoPay), news browsing platform, search engine, and banking services - It is Facebook + Google + Amazon in Korea.
 
@@ -25,5 +28,6 @@ After detection, algorithms can notify Suicide Prevention Center to approach suc
 ## Do they want to be detected?
 
 Such a tactic can be very effective, considering the social context of South Korean culture, where mental illness is social stigma. Even if people experience depression or other mental illnesses, they find it very difficult to voluntarily and openly look for help, because society stigmatizes people with mental health problems or even past psychiatric treatments. Most of them tend to keep it secret and seek to find solutions on their own. If this algorithm can identify such individuals and help them on hot lines in private chats, it could reduce suicidal rate significantly.
+
 However, utilizing "passive" data can be invading privacy of people, because they never agreed on using their private chats to diagnose for depression specifically. The only agreement was at the very beginning when they had signed up a decade ago. And there is no guarantee that these detections and interventions are correct. There will be false positives.
 Moreover, given the sensitivity of topic, point of intervention can also be controversial. Abrupt intervention can backfire and push them even further away from opening up and receiving help. In identifying and approaching individuals with depression, caution is needed.

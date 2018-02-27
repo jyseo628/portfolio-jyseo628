@@ -1,7 +1,6 @@
 # Help Koreans help others! {#Predictive-Fundraising}
 
 
-
 #### Keywords {-}
 
 data science, fundraising, predictive modeling, nonprofit, NPO, Korea, ABtest
