@@ -1,30 +1,33 @@
 # People-saving algorithms {#Stop-the-killing}
 
-#### Abstract {-}
-
-(ref:abs2)
-
 #### Keywords {-}
 
 Data Science, AI, algorithm, prevent, suicide, South Korea
 
-## No.1 suicide rate among OECD countries
 
-"According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012 [in South Korea], about 2 1/2 times the OECD average of 11.9." South Korea has the highest suicidal rate among OECD countries, especially for children of age 10-19, and elderly group (60+). [@Yoon] Without comparison to other countries, suicide is the No.1 cause of death among Koreans aged 10 to 39. Despite the severity of high and increasing trends, countermeasures by the government have been insufficient and inefficient. "In 2016, only $7 million was spent on mental health, when compared to Japan, which has a similar problem but has started spending $130 million each year on suicide prevention and awareness." [@Kim]
+## Is North Korea the biggest threat to South Korea?
+ 
+"According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012 [in South Korea], which is about 2 1/2 times the OECD average of 11.9." It is the highest suicidal rate among OECD countries. [@Yoon] Suicide is the No.1 cause of death among Koreans aged 10 to 39. Even without North Korea's threat, South Korea has enough killings on their own.
+
+Despite the severity of high and increasing trends, countermeasures by the government have been inefficient. For instance, the handrails on Mapo bridge, where many suicides were reported, have been equipped with motion sensors to sense movements for suicide, lighting up with short phrases and showing photos of happy families among other things. However, suicide rates on Mapo bridge has actually increased after the sensors were implemented, and now it's even called "the suicide bridge." Fundamental reason of such happening is government's lack of understanding the nature of suicidal individuals, and therefore, what support such individuals need. In their defense, the difficulty of understanding motives of depressed citizens is because of social stigma against people who visit psychiatrists or therapists, making them "crazy people." Therefore, the existing Suicide Prevention Center stands for the sake of existence without actual visitors. Instead of approaching this problem prematurely, Korean government needs to take the right measure.
 
 
 
 ## Machine learning for saving lives
 
-Machine learning algorithms can prevent people from ending their lives, by detecting citizens who show signs of suicidal attempts for intervention. Korean government can utilize citizens' data on smartphone behaviors and develop machine learning algorithms that can correlate behavioral data with symptoms of depression or other mental disorders. Based on text mining and image mining, algorithms can be designed to automatically trigger the flag, when they detect individuals who show symptoms of depression or signs of suicidal attempts. For example, "people who are contemplating ending their lives rarely use the word 'suicide'; words like 'ibuprofen' or 'bridge' are better indicators of suicidal thoughts." [@Reardon] Algorithms can be run on collected data regarding people's language patterns on social media or messaging apps, in-app purchase patterns, and browsing patterns.
 
-What makes this process remarkably accessible is the application Kakaotalk, the single most-used messenger/SNS platform for Koreans: 43 out of 51 million Koreans are active users (84% penetration). It also provides shopping (with KakaoPay), news browsing, search engine, and banking services, all in multiple tabs in a single application. By analyzing users' data of private chats, public posts, purchase patterns, searching patterns, and vocal cues for mood changes, machine learning algorithms can easily detect individuals who show suicidal symptoms.
+Machine learning algorithms can help Korean government to intervene with citizens who show signs of suicidal attempts by detecting them in an earlier stage. MLA can utilize citizens' data on smartphone behaviors and understand correlation between behavioral data and symptoms of depression or other mental disorders, in order to identify individuals in need of help. What makes this process remarkably accessible is the application Kakaotalk, the single most-used messenger/SNS platform for Koreans: 43 out of 51 million Koreans are active users (84% penetration). This application also provides other tools, such as audio/video calls, shopping platform (with KakaoPay), news browsing platform, search engine, and banking services - It is Facebook + Google + Amazon in Korea.
 
-After detection, algorithms can notify Suicide Prevention Center to approach individuals at risk, or suggest them to chat with Suicide Prevention Center hot lines directly.
+First step is to collect meaningful data of citizens' behaviors and analyze them. Suicide Prevention Center can open a private hotline on Kakaotalk application to collect information about people at emotional risks, so that citizens have easy access to reach out for help without risking revelation of their identification other than their phone numbers. Then, after receiving their consent, we can collect these users' data of chats, public posts, purchase patterns, engine searching patterns, and vocal cues on calls, and feed them into our machine learning algorithms.
+
+Next is to develop appropriate machine learning algorithms for each type of data. Natural language processing can be used to study private chats and engine search patterns, while image mining and text mining can be used for public posts. In-app purchasing patterns and browsing patterns can also be analyzed, across shopping categories and amount of money spent. These algorithms can first save these data to properly understand any correlations between smartphone behaviors and suicidal thoughts. After enough data is accumulated, the algorithms can predict which individuals will show symptoms of depression or signs of suicidal attempts. For example, the algorithm can learn from past data that "people who are contemplating ending their lives rarely use the word 'suicide'; words like 'ibuprofen' or 'bridge' are better indicators of suicidal thoughts," and flag automatically when they detect individuals who search those keywords. [@Reardon]
+
+After detection, algorithms can notify Suicide Prevention Center to approach such citizens at emotional risks, based on the severity of their status, on a private hotline. By intervening at an earlier stage before people developing extreme thoughts to end their own lives, Suicide Prevention Center can actually prevent suicides and provide appropriate help to regain strength to carry on.
 
 
-## Privacy issues
+## Do they want to be detected?
 
 Such a tactic can be very effective, considering the social context of South Korean culture, where mental illness is social stigma. Even if people experience depression or other mental illnesses, they find it very difficult to voluntarily and openly look for help, because society stigmatizes people with mental health problems or even past psychiatric treatments. Most of them tend to keep it secret and seek to find solutions on their own. If this algorithm can identify such individuals and help them on hot lines in private chats, it could reduce suicidal rate significantly.
+
 However, utilizing "passive" data can be invading privacy of people, because they never agreed on using their private chats to diagnose for depression specifically. The only agreement was at the very beginning when they had signed up a decade ago. And there is no guarantee that these detections and interventions are correct. There will be false positives.
 Moreover, given the sensitivity of topic, point of intervention can also be controversial. Abrupt intervention can backfire and push them even further away from opening up and receiving help. In identifying and approaching individuals with depression, caution is needed.
