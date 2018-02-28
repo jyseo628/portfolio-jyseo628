@@ -1,6 +1,11 @@
+# People-saving algorithms {#Stop-the-killing}
+
+#### Keywords {-}
+
+Data Science, AI, algorithm, prevent, suicide, South Korea
+
+
 ## Is North Korea the biggest threat to South Korea?
- 
-"According to the OECD Health Statistics 2015, an average of 29.1 people per 100,000 committed suicide in 2012 [in South Korea], which is about 2 1/2 times the OECD average of 11.9." It is the highest suicidal rate among OECD countries, especially for teenagers and elders of age more than 60. [@Yoon] Suicide is the No.1 cause of death among Koreans aged 10 to 39. Even without North Korea's threat, South Korea has enough killings on their own.
 
 Despite the severity of high and increasing trends, countermeasures by the government have been inefficient. For instance, the handrails on Mapo bridge, where many suicides were reported, have been equipped with motion sensors to sense movements for suicide, lighting up with short phrases and showing photos of happy families among other things. However, suicide rates on Mapo bridge has actually increased after the sensors were implemented, and now it's even called "the suicide bridge." Fundamental reason of such happening is government's lack of understanding the nature of suicidal individuals, and therefore, what support such individuals need. In their defense, the difficulty of understanding motives of depressed citizens is because of social stigma against people who visit psychiatrists or therapists, making them "crazy people." Therefore, the existing Suicide Prevention Center stands for the sake of existence without actual visitors. Instead of approaching this problem prematurely, Korean government needs to take the right measure. 
  
@@ -24,3 +29,5 @@ Moreover, given the sensitivity of topic, point of intervention can also be cont
 
 However, if implemented properly without causing users' resentment, machine learning algorithms will be very effective, especially considering the social context of South Korean culture where mental illness is stigmatized. Private approach without revelation of identification could reduce suicidal rate significantly.
 Moreover, if data is collected continuously, machine learning will also be able to find fundamental reasons behind people's suicides, some of which might be related to social structure of Korea. From the fact that suicide rates are higher in teenage groups and elderly, it's apparent that social welfare is not well established for weak social groups. By understanding specific and accurate reasons of difficulties for weak groups, Korean government can take measures to make fundamental adjustment in social systems to better citizens' lives.
+
+Machine learning algorithms can help Korean government to intervene with citizens who show signs of suicidal attempts by detecting them in an earlier stage. MLA can utilize citizens' data on smartphone behaviors and understand correlation between behavioral data and symptoms of depression or other mental disorders, in order to identify individuals in need of help. What makes this process remarkably accessible is the application Kakaotalk, the single most-used messenger/SNS platform for Koreans: 43 out of 51 million Koreans are active users (84% penetration). This application also provides other tools, such as audio/video calls, shopping platform (with KakaoPay), news browsing platform, search engine, and banking services - It is Facebook + Google + Amazon in Korea.
