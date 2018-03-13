@@ -18,13 +18,8 @@ readLines('https://www.zotero.org/api/users/4665612/items/top?limit=25&format=bi
 
 # Welcome! {-}
 
-<!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
-```
-
 ```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+knitr::include_url('https://drive.google.com/drive/folders/1sBR1bzrZFHdiL-KZoL2ZBBm4f7eK91ov/preview')
 ```
 
 ### Abstract of my first idea {-}
